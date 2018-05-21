@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+cmake-build-debug
+.idea
+memcpytest.cpp
+sfsj/main
